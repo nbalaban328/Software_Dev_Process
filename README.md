@@ -7,8 +7,6 @@ Agile methodology (Scrum)
 
 UML diagrams & system modeling
 
-Git & GitHub workflows
-
 Unit & integration testing
 
 Code reviews and issue tracking
