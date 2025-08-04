@@ -13,10 +13,12 @@ Unit & integration testing
 
 Code reviews and issue tracking
 
-[Include your tech stack here – e.g., Python, Java, Flask, React, etc.]
-
 📄 Project Summary:
-[Briefly describe what the project does — 1–2 sentences.]
+The objective is to implement a software with IoT into a reliable and readily available 
+self-driving vehicle of the future. The development of the software will go into an 
+embedded system with an emphasis on its real-time availability. Special features that 
+this vehicle will highlight are dynamic cruise control, safety & leisure and satellite GPS 
+navigation.
 
 🚀 Purpose:
 This project serves as a capstone to showcase practical application of software engineering techniques in a collaborative development environment.
